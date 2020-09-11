@@ -1,4 +1,4 @@
-### Hi there, I'm Evandro - Front-end development 👋
+### Hi there, I'm Evandro - front-end developer 👋
 
 <!--
 **evandropsantos/evandropsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
